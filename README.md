@@ -18,6 +18,6 @@ alert(x);
 >Sed interdum aliquet nisl. Integer bibendum tortor magna, a eleifend mi iaculis non.
 
 
- [Link to 2nd Page] (2ndPage.md)
+ [Link to 2nd Page](2ndPage.md)
     
     
